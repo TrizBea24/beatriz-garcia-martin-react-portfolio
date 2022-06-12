@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Login from "../auth/login";
-import loginImg from "../../../static/assets/images/auth/login.jpeg"; //los puntos .. son para que suba un nivel por cada dos puntos y luego pueda acceder a otro archivo.
+import loginImg from "../../../static/assets/images/auth/login.jpg"; //los puntos .. son para que suba un nivel por cada dos puntos y luego pueda acceder a otro archivo.
 
 export default class Auth extends Component {
   constructor(props) {
